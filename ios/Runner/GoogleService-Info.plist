@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>537650473196-542s4fl4tfvjk806megu0e9q5trnvrqf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.537650473196-542s4fl4tfvjk806megu0e9q5trnvrqf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA793h-0X4Y34JvRDBuFR0q8XljYTOZpnA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>537650473196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.damU3VehiculosFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>crud-vehiculos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crud-vehiculos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:537650473196:ios:ba0b312befc4c1ebb69dc9</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537650473196",
+    "project_id": "crud-vehiculos",
+    "storage_bucket": "crud-vehiculos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537650473196:android:a95e05ae8b5ddbbeb69dc9",
+        "android_client_info": {
+          "package_name": "com.example.dam_u3_vehiculos_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537650473196-8nr5jcpsmkl79jenfhpgbltsedhja746.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwMyPElJr3ZrogHjwzr9TMdanT-2kk2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537650473196-8nr5jcpsmkl79jenfhpgbltsedhja746.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
